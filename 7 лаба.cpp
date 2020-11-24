@@ -52,4 +52,5 @@ int main()
 			a = 0;
 		}
 	}
+	free(s);
 }
